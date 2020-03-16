@@ -16,7 +16,7 @@ PHP is an object oriented scripting language, that supports oriented analysis, d
 
 ### PIE:
 
-- Polymorphism: implements keyword
-- Inheritance: extends keyword
-- Encapsulation: “get” and “set” methods etc.
+- Polymorphism: A class has varying functionality while sharing a common interfaces. Use the implements keyword to implement an interface in a child class. 
+- Inheritance: The subclass inherits all of the public and protected methods from the parent class with the extends keword.
+- Encapsulation: Enclosing the internal details of the object to protect from external sources with “get” and “set” methods etc.
 
