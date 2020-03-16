@@ -14,7 +14,7 @@ The three basic components of object oriented programming are;
 
 PHP is an object oriented scripting language, that supports oriented analysis, designing and programming. These components are attained by us of "PIE";
 
-Polymorphism: implements keyword
-Inheritance: extends keyword
-Encapsulation: “get” and “set” methods etc.
+-Polymorphism: implements keyword
+-Inheritance: extends keyword
+-Encapsulation: “get” and “set” methods etc.
 
