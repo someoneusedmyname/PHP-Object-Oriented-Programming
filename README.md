@@ -12,7 +12,7 @@ Object Oriented Programming is developing style that focuses on practical and ev
 
 ## How is OOP used in PHP?
 
-PHP is an object oriented scripting language, that supports oriented analysis, designing and programming. These components are attained by us of "PIE".
+PHP is an object oriented scripting language, that supports oriented analysis, designing and programming. These components are attained by use of "PIE".
 
 ### PIE:
 
